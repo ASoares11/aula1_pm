@@ -17,3 +17,5 @@ class MainActivity : AppCompatActivity() {
 }
 
 // Ban! Kai! Getsuga Tenshou!! Hoooo Mukatte no kuru no ka... nigezu no kono DIO ni chikadzuite kuru no ka...
+
+// Not on my watch!! INCURSIO!!!!!
