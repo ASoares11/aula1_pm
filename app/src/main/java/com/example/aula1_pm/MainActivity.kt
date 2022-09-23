@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // This is not a comment
 
-        //Tis but a comment brotha
+        //'Tis but a comment brotha
     }
 }
