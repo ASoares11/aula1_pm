@@ -15,3 +15,5 @@ class MainActivity : AppCompatActivity() {
         //You thought it was a comment, but it was me, DIO!!!! Haahahahahahah
     }
 }
+
+// Ban! Kai! Getsuga Tenshou!! Hoooo Mukatte no kuru no ka... nigezu no kono DIO ni chikadzuite kuru no ka...
