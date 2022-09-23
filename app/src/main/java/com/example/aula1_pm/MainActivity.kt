@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         // This is not a comment
 
         //'Tis but a comment brotha
+
+        //You thought it was a comment, but it was me, DIO!!!! Haahahahahahah
     }
 }
